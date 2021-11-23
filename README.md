@@ -26,8 +26,8 @@
 ## <b>installation</b>
 
 ```
-$cd
-$rm -rf Super-Speed
+$ cd
+$ rm -rf Super-Speed
 $ pkg update
 $ pkg upgrade
 $ pkg install python
