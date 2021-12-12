@@ -1,5 +1,5 @@
 ## NUMBER ID.
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Niki404-Cyber-dimgray?style=flat-square&logo=github)](https://github.com/Niki404-Cyber)<br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/NIKI.CYBER404.OFFICIALS)<br> ![Instagram](https://img.shields.io/badge/Instagram-Mr.NIKI-hotpink?style=flat-square&logo=instagram)
+</br> <br>[![Github](https://img.shields.io/badge/Github-Niki404-Cyber-dimgray?style=flat-square&logo=github)](https://github.com/Niki404-Cyber)<br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/NIKI.CYBER404.OFFICIALS)<br> ![Instagram](https://img.shields.io/badge/Instagram-Mr.NIKI-hotpink?style=flat-square&logo=instagram)
 
 <h1 align="center"> |ERROR PROBLEM FIXED| </h1>
 
